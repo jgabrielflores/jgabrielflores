@@ -4,14 +4,7 @@
 
 🚀 Desenvolvedor Backend & Dados
 
-📍 Brasil · buscando vaga júnior / full-time
-
-<a href="https://www.linkedin.com/in/josegabrielflores/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:gabrielfloresbassanello@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+📍 São Paulo
 
 ## 🧠 Sobre mim
 
@@ -24,8 +17,9 @@ em integração de sistemas e aplicações com **IA generativa (LLMs)**.
 
 ## 📈 Objetivo
 
-Busco minha primeira oportunidade full-time como **desenvolvedor backend / dados**, onde eu possa aplicar
-o que construí em projetos reais, evoluir tecnicamente e contribuir com o time.
+Atuar como **desenvolvedor backend / dados**, construindo APIs e soluções confiáveis com foco em
+qualidade de código, testes e boas práticas de engenharia. Procuro um time onde eu possa gerar
+impacto técnico real, resolver problemas de verdade e continuar evoluindo.
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -38,7 +32,9 @@ o que construí em projetos reais, evoluir tecnicamente e contribuir com o time.
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Next.js" title="Next.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 
 <br clear="left"/>
@@ -74,3 +70,8 @@ Cinco desafios práticos com código, diagramas de arquitetura e testes document
 </p>
 
 <br clear="left"/>
+
+## 📫 Contato
+
+- 💼 LinkedIn: [josegabrielflores](https://www.linkedin.com/in/josegabrielflores/)
+- 📧 E-mail: gabrielfloresbassanello@gmail.com
