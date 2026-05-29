@@ -4,8 +4,6 @@
 
 🚀 Desenvolvedor Backend & Dados
 
-📍 São Paulo
-
 ## 🧠 Sobre mim
 
 Engenheiro de Computação formado pela **UNIFEI**, com experiência em **desenvolvimento backend**,
