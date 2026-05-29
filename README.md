@@ -15,6 +15,8 @@ Gosto de construir APIs em **Python/FastAPI** com **PostgreSQL**, testes automat
 também com **análise de dados** (Pandas, SQL) e soluções **serverless na AWS**, e tenho interesse forte
 em integração de sistemas e aplicações com **IA generativa (LLMs)**.
 
+Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da minha evolução na área de TI.
+
 ## 📈 Objetivo
 
 Atuar como **desenvolvedor backend / dados**, construindo APIs e soluções confiáveis com foco em
