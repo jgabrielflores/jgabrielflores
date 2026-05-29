@@ -21,6 +21,11 @@ Atuar como **desenvolvedor backend / dados**, construindo APIs e soluções conf
 qualidade de código, testes e boas práticas de engenharia. Procuro um time onde eu possa gerar
 impacto técnico real, resolver problemas de verdade e continuar evoluindo.
 
+## 📫 Contato
+
+- 💼 LinkedIn: [josegabrielflores](https://www.linkedin.com/in/josegabrielflores/)
+- 📧 E-mail: gabrielfloresbassanello@gmail.com
+
 ## 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -61,6 +66,8 @@ Cinco desafios práticos com código, diagramas de arquitetura e testes document
 | [s3-lambda](https://github.com/jgabrielflores/desafio-aws-s3-lambda) | Pipeline serverless | Lambda · S3 · DynamoDB · boto3 |
 | [step-functions](https://github.com/jgabrielflores/desafio-aws-step-functions) | Orquestração de workflows | Step Functions · DynamoDB |
 | [cloudformation](https://github.com/jgabrielflores/desafio-aws-cloudformation) | Infra como Código | CloudFormation · EC2 · IAM |
+| [website](https://github.com/jgabrielflores/desafio-aws-website) | Hospedagem estática + IaC | S3 · CloudFormation |
+| [fundamentos](https://github.com/jgabrielflores/desafio-aws-fundamentos) | Compute e armazenamento | EC2 · EBS · S3 · Lambda · VPC |
 
 ## 📊 Estatísticas
 
@@ -70,8 +77,3 @@ Cinco desafios práticos com código, diagramas de arquitetura e testes document
 </p>
 
 <br clear="left"/>
-
-## 📫 Contato
-
-- 💼 LinkedIn: [josegabrielflores](https://www.linkedin.com/in/josegabrielflores/)
-- 📧 E-mail: gabrielfloresbassanello@gmail.com
