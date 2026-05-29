@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o José Gabriel!
 
-💻 Engenheiro de Computação — UNIFEI
+💻 Engenheiro de Computação - UNIFEI
 
 🚀 Desenvolvedor Backend & Dados
 
@@ -45,7 +45,7 @@ impacto técnico real, resolver problemas de verdade e continuar evoluindo.
 <br clear="left"/>
 <br/>
 
-## 🚀 Projeto em destaque — [Ramos Planejados](https://github.com/jgabrielflores/ramos-planejados)
+## 🚀 Projeto em destaque - [Ramos Planejados](https://github.com/jgabrielflores/ramos-planejados)
 
 Plataforma fullstack que substitui o controle informal (WhatsApp/planilhas) de uma marcenaria de
 móveis planejados por um sistema estruturado. Backend FastAPI + frontend Next.js.
@@ -57,7 +57,7 @@ móveis planejados por um sistema estruturado. Backend FastAPI + frontend Next.j
 
 `FastAPI` · `PostgreSQL` · `Docker` · `pytest` · `GitHub Actions` · `Next.js`
 
-## ☁️ AWS — Bootcamp Fundamentos de Cloud (DIO / GFT)
+## ☁️ AWS - Bootcamp Fundamentos de Cloud (DIO / GFT)
 
 Cinco desafios práticos com código, diagramas de arquitetura e testes documentados:
 
