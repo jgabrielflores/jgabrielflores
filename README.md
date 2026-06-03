@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o José Gabriel!
 
-💻 Engenheiro de Computação - UNIFEI
+💻 Engenheiro de Computação
 
 🚀 Desenvolvedor Backend & Dados
 
